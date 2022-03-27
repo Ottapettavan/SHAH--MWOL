@@ -6,7 +6,7 @@ Wa.me/+917025191792
 */
 
 const Neotro = require('../events');
-const AFIYA-MWOL = require('../AFIYA-MWOL');
+const AFIYA-MWOL = require('../AFIYA MWOL');
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
 const Config = require('../config')
