@@ -1,7 +1,7 @@
 {
     "name": "AFIYA MWOL ",
     "description": "AFIYA MWOL - Whatsapp Bot codded by KHADHER",
-    "logo": "https://i.imgur.com/HBlOhMc.png",
+    "logo": "https://www.linkpicture.com/q/20220327_102035.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/khadher05/AFIYA-MWOL",
     "website":   "https://github.com/khadher05/AFIYA-MWOL",
@@ -186,7 +186,7 @@
         "GAN_IMAGE": {
             "description": "Gan Style eklentisi için resim bağlantısı yazın. Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://i.hizliresim.com/loUtAb.jpg"
+            "value": "https://www.linkpicture.com/q/20220327_102035.jpg"
         },
         "NO_ONLINE": {
             "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
