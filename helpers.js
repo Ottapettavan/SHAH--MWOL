@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Catbot*:  ```" + msg + "```"
+    return "✅ *AFIYA-MWOL*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Catbot*:  ```" + msg + "```"
+    return "🛑 *AFIYA-MWOL*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Catbot*:  ```" + msg + "```"
+    return "⏺️ *AFIYA-MWOL*:  ```" + msg + "```"
 }
 
 
