@@ -1,28 +1,22 @@
-# 𝗖𝗔𝗧𝗕𝗢𝗧 𝗩1
+# ᴀꜰɪyᴀ ᴍᴡᴏʟ
 <div align="center">
         <img border-radius: 15px src="https://www.linkpicture.com/q/20220327_102035.jpg" width="200" height="200"/>
 </p>
 
 
-```
-BOT IN MAINTANCE📌
-```
-<div align="center">
-
-## [![catbots](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbots+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="BASILSER" src="https://img.shields.io/badge/BASILSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ᴋʜᴀᴅʜᴇʀ" src="https://img.shields.io/badge/ᴋʜᴀᴅʜᴇʀ-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/khadher05"><img title="Author" src="https://img.shields.io/badge/Author-KHADHER-/afiya?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to make it public
+Project created by <a href="https://github.com/khadher05">ᴋʜᴀᴅʜᴇʀ</a> to make it public
     <br>
        | © |
         Reserved |
@@ -33,19 +27,15 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/mohammed_basil_12?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://instagram.com/__khadher__?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
   
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="itsmebasil0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadher05&show_icons=true&theme=dark&locale=en" alt="khadher05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmebasil0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadher05&theme=dark" alt="khadher05" /></p>
 </p>
 
 
@@ -70,14 +60,7 @@ Click WA logo to Join Support Group 👇
 <br>
 <br >
  
-<div align="center">
-
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
  
- <div align="left">
-  
-  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
-```bash <(curl -L https://t.ly/tHxh)```
             
 ### The Hard Method
 ```js
@@ -85,8 +68,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/khadher05/AFIYA-MWOL
+$ cd AFIYA-MWOL
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -95,8 +78,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/khadher05/AFIYA-MWOL
+$ cd AFIYA-MWOL
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -110,15 +93,15 @@ $ node bot.js
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Pikachu executives do not accept responsibility.
-By establishing the Pikachu, you are deemed to have accepted these responsibilities.
+By establishing the COSMIC, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![itsmebasil0](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
+  [![KHADHER](https://github.com/khadher05.png?size=100)](https://github.com/khadher05) | 
 ----|
-[BASILSER](https://github.com/itsmebasil0)
+[KHADHER05](https://github.com/khadher05)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
