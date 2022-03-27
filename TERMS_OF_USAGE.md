@@ -1,3 +1,5 @@
+# AFIYA MWOL
+
 # **WHATSASENA** TERMS OF USAGE
 
 Last Updated: **GMT-3 22/03/2021**
