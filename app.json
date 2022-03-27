@@ -1,6 +1,6 @@
 {
-    "name": "CATBOTS",
-    "description": "catbots - Whatsapp Bot",
+    "name": "AFIYA MWOL ",
+    "description": "AFIYA MWOL - Whatsapp Bot codded by KHADHER",
     "logo": "https://i.imgur.com/HBlOhMc.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/Itsmebasil0/catbot1",
@@ -8,8 +8,8 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "CATBOT_SESSION": {
-            "description": "catbot session changed! Onnude scan cheythu code koduku.",
+        "AFIYA_SESSION": {
+            "description": "AFIYA session changed! Onnude scan cheythu code koduku.",
             "required": true
         },
         "SUDO": {
