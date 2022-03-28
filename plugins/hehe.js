@@ -1,6 +1,6 @@
 /* Copyright (C) 2021 souravkl11.
 Licensed under the  GPL-3.0 License;
-you may not change the credit or use this file except in compliance with the License.
+you may not change the credit or  use this file except in compliance with the License.
 PM Broadcast audio - souravkl11
 */
 
