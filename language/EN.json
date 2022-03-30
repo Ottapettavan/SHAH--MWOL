@@ -73,21 +73,21 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```ᴀꜰɪyᴀ ᴍᴡᴏʟ Restarting...🧚‍♂️```",
+            "RESTART_MSG": "```🧚‍♂️ꜱʜᴀʜ ᴍᴡᴏʟ Restarting...🧚‍♂️```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "``` ᴀꜰɪyᴀ ᴍᴡᴏʟ Shutting down 😴```",
+            "SHUTDOWN_MSG": "``` 🧚‍♂️ꜱʜᴀʜ ᴍᴡᴏʟ Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
             "PERCENTAGE": "```Percentage```",
             "DYNO_LEFT": "```Remaining```",
             "SETVAR_DESC": "Set heroku config var",
-            "SET_SUCCESS": " ᴀꜰɪyᴀ ᴍᴡᴏʟ successfully set ```{} ➜ {}```",
+            "SET_SUCCESS": " 🧚‍♂️ꜱʜᴀʜ ᴍᴡᴏʟ successfully set ```{} ➜ {}```",
             "KEY_VAL_MISSING": "```Either Key or Value is missing```",
             "INVALID": "```Invalid key:value format```",
             "GETVAR_DESC": "Get heroku config var",
             "DELVAR_DESC": "Delete heroku config var",
-            "DEL_SUCCESS": "```{}  ᴀꜰɪyᴀ ᴍᴡᴏʟ successfully deleted```",
+            "DEL_SUCCESS": "```{}  ꜱʜᴀʜ ᴍᴡᴏʟ successfully deleted```",
             "NOT_FOUND": "```no results found for this key```"           
         },
         "filters": {
@@ -128,7 +128,7 @@
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "``` ᴀꜰɪyᴀ ᴍᴡᴏʟDownloading media & making meme...```"
+            "DOWNLOADING": "``` ꜱʜᴀʜ ᴍᴡᴏʟDownloading media & making meme...```"
         },
         "log": {
             "LOG": "Saves the message you reply to your private number.",
@@ -144,7 +144,7 @@
             "OCR_DESC": "Reads the text on the photo you have replied.",
             "NEED_REPLY": "*Reply to a photo!*",
             "DOWNLOADING": "```Media is downloading & reading...```",
-            "ERROR": "```ᴀꜰɪyᴀ ᴍᴡᴏʟ couldn't read this :/```\n*Error:*```{}```",
+            "ERROR": "```ꜱʜᴀʜ ᴍᴡᴏʟ couldn't read this :/```\n*Error:*```{}```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
         "profile": {
@@ -186,8 +186,8 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*✮⃝🕊️𝕯𝖔𝖜𝖓𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖄𝖔𝖚𝖗 𝕾𝖔𝖓𝖌✮⃝🕊️*\n",
-            "UPLOADING_SONG": "\n*✮⃝🕊️✿𝖀𝖕𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖄𝖔𝖚𝖗 𝕾𝖔𝖓𝖌✿✮⃝🕊️*\n",
+            "DOWNLOADING_SONG": "\n*✮⃝🧚🏻‍♀️🕊️𝘿ྂ𝙊ྂ𝙒ྂ𝙉ྂ𝙇ྂ𝙊ྂ𝘼ྂ𝘿ྂ𝙄ྂ𝙉ྂ𝙂ྂ 𝙔ྂ𝙊ྂ𝙐ྂ𝙍ྂ 𝙎ྂ𝙊ྂ𝙉ྂ𝙂ྂ..✮⃝🧚‍♂️🕊️*\n",
+            "UPLOADING_SONG": "\n*✮⃝🧚🏻‍♀️🕊️ꐇྂꉣྂ꒒ྂꂦྂꁲྂꂠྂꂑྂꋊྂꁅྂ ꐞྂꂦྂꐇྂꌅྂ ꌚྂꂦྂꋊྂꁅྂ✮⃝🧚‍♂️🕊️*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.chhyhbgnggjju```",
             "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video! pinne . ittit space veanda*",
-            "DOWNLOADING": "```Converting to sticker🎯```"
+            "DOWNLOADING": "```Converting to sticker```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*AFIYA MWOL Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan join   https://chat.whatsapp.com/JdQQjIOcQJ3G8rRy5ECtr4\n\nChanges:\n```",
+            "NEW_UPDATE": "*SHAH  MWOL Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan join   https://chat.whatsapp.com/JdQQjIOcQJ3G8rRy5ECtr4\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```AFIYA MWOL Updating..⚙️```",
+            "UPDATING": "```SHAH  MWOL Updating..⚙️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*ᴀꜰɪyᴀ ᴍᴡᴏʟ RESTARTING*"
+            "AFTER_UPDATE": "*ꜱʜᴀʜ ᴍᴡᴏʟ RESTARTING*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
