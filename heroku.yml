@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /SHAH MWOL/Dockerfile
+      worker: /SHAH mMWOL/Dockerfile
 run:
    worker: npm start
