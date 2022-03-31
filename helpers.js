@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *AFIYA-MWOL*:  ```" + msg + "```"
+    return "✅ *SHAH--MWOL*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *AFIYA-MWOL*:  ```" + msg + "```"
+    return "🛑 *SHAH--MWOL*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *AFIYA-MWOL*:  ```" + msg + "```"
+    return "⏺️ *SHAH--MWOL*:  ```" + msg + "```"
 }
 
 
