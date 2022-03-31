@@ -1,14 +1,14 @@
 {
-  "name": "AFIYA-MWOL",
+  "name": "SHAH--MWOL",
   "version": "2.0.0",
-  "description": "AFIYA-MWOL whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./AFIYA-MWOL/bot.js",
+  "description": "SHAH--MWOL whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./SHAH--MWOL/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khadher05/AFIYA-MWOL"
+    "url": "git+https://github.com/Ramshadkaz/SHAH--MWOL"
   },
   "keywords": [
     "WhatsApp",
@@ -16,10 +16,10 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "khadher05 ",
+  "developer": "Ramshadkaz ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/khadher05/AFIYA-MWOL/issues"
+    "url": "https://github.com/Ramshadkaz/SHAH--MWOL/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
