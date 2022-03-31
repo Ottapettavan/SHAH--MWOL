@@ -10,7 +10,7 @@ const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./AFIYA MWOL/');
+const {Message, StringSession, Image, Video} = require('./SHAH  MWOL/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const axios = require('axios');
@@ -36,10 +36,10 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 
 const plugindb = require('./plugins/sql/plugin');
 var base = `https://gist.github.com/`
-var PROP = { aredits: '917025191792,0' }
+var PROP = { aredits: '917736951082,0' }
 var unlink = `019112af334adceaefd1467dcbd93e58` 
-var PROP2 = { kl11: '917025191792,0' }
-var string = base + `Khadher`
+var PROP2 = { kl11: '917736951082,0' }
+var string = base + `Ramshad`
         
 // Yalnızca bir kolaylık. https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
 String.prototype.format = function () {
@@ -88,7 +88,7 @@ async function whatsAsena () {
 
     conn.on ('credentials-updated', async () => {
         console.log(
-            chalk.blueBright.italic('✅ AFIYA MWOL Login information updated!')
+            chalk.blueBright.italic('✅ SHAH  MWOL Login information updated!')
         );
 
         const authInfo = conn.base64EncodedAuthInfo();
@@ -102,17 +102,17 @@ async function whatsAsena () {
     conn.on('connecting', async () => {
         console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
-${chalk.blue.italic('ℹ️ AFIYA MWOL Connecting to WhatsApp...')}`);
+${chalk.blue.italic('ℹ️ SHAH  MWOL Connecting to WhatsApp...')}`);
     });
     
 
     conn.on('open', async () => {
         console.log(
-            chalk.green.bold('✅ AFIYA MWOL Login successful!')
+            chalk.green.bold('✅ SHAH  MWOL Login successful!')
         );
 
         console.log(
-            chalk.blueBright.italic('⬇️ AFIYA MWOL Installing external plugins...')
+            chalk.blueBright.italic('⬇️ SHAH  MWOL Installing external plugins...')
         );
 
         var plugins = await plugindb.PluginDB.findAll();
@@ -128,7 +128,7 @@ ${chalk.blue.italic('ℹ️ AFIYA MWOL Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.blueBright.italic('⬇️ AFIYA MWOL Installing plugins...')
+            chalk.blueBright.italic('⬇️ SHAH  MWOL Installing plugins...')
         );
 
         fs.readdirSync('./plugins').forEach(plugin => {
@@ -138,7 +138,7 @@ ${chalk.blue.italic('ℹ️ AFIYA MWOL Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ AFIYA MWOL working!')
+            chalk.green.bold('✅ SHAH  MWOL working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -163,7 +163,7 @@ ${chalk.blue.italic('ℹ️ AFIYA MWOL Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*AFIYA MWOL WORKING NOW 💖📌*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*SHAH  MWOL WORKING NOW 💖📌*', MessageType.text);
                 }
             }
             else {
@@ -185,7 +185,7 @@ ${chalk.blue.italic('ℹ️ AFIYA MWOL Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*AFIYA MWOL WORK STARTED NOW 👀💖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*SHAH  MWOL WORK STARTED NOW 👀💖*', MessageType.text);
                 }
 
             }
@@ -234,7 +234,7 @@ ${chalk.blue.italic('ℹ️ AFIYA MWOL Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*AFIYA MWOL WORK STARTED NOW 👀💖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*SHAH  MWOL WORK STARTED NOW 👀💖*', MessageType.text);
                 }
             }
         }
@@ -402,7 +402,7 @@ ${chalk.blue.italic('ℹ️ AFIYA MWOL Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*AFIYA MWOL ERROR DECTECTOR❗⚙️❗*' +
+                                await conn.sendMessage(conn.user.jid, '*SHAH  MWOL ERROR DECTECTOR❗⚙️❗*' +
                                     '\n\n*🛑 ' + error + '*\n\n```*join with +91 \n https://chat.whatsapp.com/JdQQjIOcQJ3G8rRy5ECtr4  ``` ' 
                                     , MessageType.text);
                             }
