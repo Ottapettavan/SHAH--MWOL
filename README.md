@@ -1,6 +1,6 @@
-# ᴀꜰɪyᴀ ᴍᴡᴏʟ
+# SHAH MWOL
 <div align="center">
-        <img border-radius: 15px src="https://www.linkpicture.com/q/20220327_102035.jpg" width="200" height="200"/>
+        <img border-radius: 15px src="https://imgur.com/sueftdB.jpg" width="200" height="200"/>
 </p>
 
 
