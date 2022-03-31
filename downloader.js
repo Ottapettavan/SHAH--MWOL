@@ -32,11 +32,11 @@ Asena.addCommand({ pattern: 'ig ?(.*)', fromMe: false, desc: IG_DESC}, async (me
         const msg = `${type}`
 
 	 if (msg === 'image') { await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.image, {
-          caption: "Made By AFIYA MWOL wa-bot"
+          caption: "мα∂ε вү sнαн мωσℓ "
         })}
 		 	 
 	if (msg === 'video') { await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
-          caption: "Made By AFIYA MWOL wa-bot"
+          caption: "мα∂ε вү sнαн мωσℓ "
         })}
 	
         
