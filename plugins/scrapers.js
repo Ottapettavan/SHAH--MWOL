@@ -1,12 +1,12 @@
 /*
-AFIYA MWOL
+SHAH MWOL
 */
 
 const Asena = require('../events');
 const {MessageType,Mimetype} = require('@adiwajshing/baileys');
 const translatte = require('translatte');
 const config = require('../config');
-const Catbot = require('../AFIYA MWOL')
+const Catbot = require('../SHAH MWOL')
 const LanguageDetect = require('languagedetect');
 const lngDetector = new LanguageDetect();
 const Heroku = require('heroku-client');
