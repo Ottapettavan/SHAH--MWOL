@@ -9,14 +9,14 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="ᴋʜᴀᴅʜᴇʀ" src="https://img.shields.io/badge/ᴋʜᴀᴅʜᴇʀ-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="𝗦𝗛𝗔𝗛𝗠𝗪𝗢𝗟" src="https://img.shields.io/badge/𝗦𝗛𝗔𝗛𝗠𝗪𝗢𝗟-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/khadher05"><img title="Author" src="https://img.shields.io/badge/Author-KHADHER-/afiya?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ramshadkaz"><img title="Author" src="https://img.shields.io/badge/Author-RAMSHAD-/shah?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/khadher05">ᴋʜᴀᴅʜᴇʀ</a> to make it public
+Project created by <a href="https://github.com/Ramshadkaz">ᴿᴬᴹˢᴴᴬᴰ</a> to make it public
     <br>
        | © |
         Reserved |
@@ -33,9 +33,9 @@ Project created by <a href="https://github.com/khadher05">ᴋʜᴀᴅʜᴇʀ</a>
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadher05&show_icons=true&theme=dark&locale=en" alt="khadher05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramshadkaz&show_icons=true&theme=dark&locale=en" alt="Ramshadkaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadher05&theme=dark" alt="khadher05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramshadkaz&theme=dark" alt="Ramshadkaz" /></p>
 </p>
 
 
@@ -53,9 +53,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Khadher05/AFIYA-MWOL)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Ottapettavan/Shahmwol?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Khadher05/AFIYA-MWOL.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ramshadkaz/SHAH--MWOL.git)
      </div>
 <br>
 <br >
@@ -68,8 +68,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/khadher05/AFIYA-MWOL
-$ cd AFIYA-MWOL
+$ git clone https://github.com/Ramshadkaz/SHAH--MWOL
+$ cd SHAH--MWOL
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -78,8 +78,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/khadher05/AFIYA-MWOL
-$ cd AFIYA-MWOL
+$ git clone https://github.com/Ramshadkaz/SHAH--MWOL
+$ cd SHAH--MWOL
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -99,9 +99,9 @@ By establishing the COSMIC, you are deemed to have accepted these responsibiliti
 ## Developers
   <div align="center">
     
-  [![KHADHER](https://github.com/khadher05.png?size=100)](https://github.com/khadher05) | 
+  [![RAMSHAD](https://github.com/Ramshadkaz.png?size=100)](https://github.com/Ramshadkaz) | 
 ----|
-[KHADHER05](https://github.com/khadher05)
+[RAMSHADKAZ](https://github.com/Ramshadkaz)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
